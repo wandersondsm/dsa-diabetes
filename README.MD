@@ -1,4 +1,4 @@
-## [Kaggle] Titanic: Machine Learning from Disaster
+## [Kaggle] Competição DSA de Machine Learning - Edição Janeiro/2019
 
 **Competição DSA jan/2019**: https://www.kaggle.com/c/competicao-dsa-machine-learning-jan-2019
 
